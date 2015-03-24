@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="1000px" viewBox="0 0 1200 1000" enable-background="new 0 0 1200 1000" xml:space="preserve">
+<radialGradient id="SVGID_1_" cx="640.5211" cy="435.7183" r="185.2113" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFF33B"/>
+	<stop  offset="0.0595" style="stop-color:#FFE029"/>
+	<stop  offset="0.1303" style="stop-color:#FFD218"/>
+	<stop  offset="0.2032" style="stop-color:#FEC90F"/>
+	<stop  offset="0.2809" style="stop-color:#FDC70C"/>
+	<stop  offset="0.6685" style="stop-color:#F3903F"/>
+	<stop  offset="0.8876" style="stop-color:#ED683C"/>
+	<stop  offset="1" style="stop-color:#E93E3A"/>
+</radialGradient>
+<circle fill="url(#SVGID_1_)" stroke="#000000" stroke-width="9" stroke-miterlimit="10" cx="640.521" cy="435.718" r="185.211"/>
+<text transform="matrix(1 0 0 1 526.9153 394.4788)" font-family="'Japonesa'" font-size="90">MEHDI</text>
+<rect x="459.669" y="427.535" fill="none" width="361.704" height="113.254"/>
+<text transform="matrix(1 0 0 1 490.006 446.2267)" font-family="'Raavi'" font-size="29">Infographie &amp; Webdesign</text>
+<rect x="487.704" y="501" fill="none" width="305.634" height="47.887"/>
+<text transform="matrix(1 0 0 1 544.5725 533.4997)" font-family="'Japonesa'" font-size="50">AKNOUCH</text>
+</svg>

@@ -1,0 +1,16 @@
+<section id="contact" class='section'>
+    <h2 id="titre_contact"><em>Une demande ? Prenez contact avec moi !</em></h2>
+    <form method="post" name="contactme" id="contactme" action="email.php">
+
+        <input type="text" size="30" maxlength="30" placeholder="Nom" name="nom" id ="frm_nom">
+
+        <input type="text" size="30" maxlength="30" placeholder="Prénom" name="prenom" id="frm_prenom">
+
+        <input type="text" size="15"  maxlength="10" placeholder="Téléphone" name="tel" id="frm_tel">
+
+        <input type="text" size="30"required name="mail" id="frm_mail">
+        <label for="frm_message">Message :</label>
+        <textarea name="message" rows="5" wrap="physical" maxlength="200" id="frm_message"></textarea>
+        <input type="submit" value="Envoyer !" id="frm_submit" size="60">
+    </form>
+</section>

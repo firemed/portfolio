@@ -1,0 +1,46 @@
+<head>
+    <meta charset="utf-8">
+    <link rel="icon" type="image/png" href="img/favicon.png" />
+    <link href="css/style.css" type="text/css" rel="stylesheet">
+
+    <link rel="stylesheet" href="flexslider/flexslider.css" type="text/css" media="screen" />
+
+    <!-- Modernizr -->
+    <script src="flexslider/demo/js/modernizr.js"></script>
+
+    <!-- jQuery -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+    <!-- FlexSlider -->
+    <script defer src="flexslider/jquery.flexslider.js"></script>
+
+
+    <!-- Fancybox -->
+    <script src="fancybox/source/jquery.fancybox.js"></script>
+    <link rel="stylesheet" href="fancybox/source/jquery.fancybox.css" type="text/css">
+
+    <script type="text/javascript">
+
+
+        $(window).load(function(){
+            $('.flexslider').flexslider({
+                animation: "slide",
+                animationLoop: true,
+                itemWidth: 210,
+                slideshowSpeed: 7000,
+                itemMargin: 5,
+                minItems: 2,
+                maxItems: 4,
+                start: function(slider){
+                    $('body').removeClass('loading');
+                }
+            });
+        });
+    </script>
+
+    <!-- scrollTo -->
+    <script src="js/mes-scripts.js"></script>
+
+    <title>Portfolio Mehdi AKNOUCH</title>
+</head>
